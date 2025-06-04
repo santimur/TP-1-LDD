@@ -13,7 +13,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # ---------------- CONFIGURACIÓN ---------------- #
-carpeta = 'ruta/tp1/TablasModelo/'
+carpeta = 'C:/Users/santi/Documents/GitHub/TP-1-LDD/TablasModelo/'
 
 # Cargar datos limpios
 bp = pd.read_csv(carpeta + 'bibliotecas_populares_limpio.csv')
